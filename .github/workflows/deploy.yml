@@ -26,6 +26,10 @@ jobs:
     environment: ${{ github.event.inputs.environment || 'dev' }}
     
     steps:
+      - name: Install dependencies
+        working-directory: frontend
+        run: npm ci
+
       - name: Checkout code
         uses: actions/checkout@v4
 
