@@ -38,4 +38,8 @@ venv/
 Thumbs.db
 
 # AWS
-.aws/
+.aws/node_modules/
+build/
+.next/
+dist/
+*.zip
