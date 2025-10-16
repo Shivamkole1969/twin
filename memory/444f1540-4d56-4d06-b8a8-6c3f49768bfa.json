@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "HI"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! I’m Shivam, a Senior Data Analyst specializing in AI and new technologies. How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "content": "MY NAME IS ALAEX"
+  },
+  {
+    "role": "assistant",
+    "content": "Nice to meet you, Alaex! How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "WHAT IS MY NAME ?"
+  },
+  {
+    "role": "assistant",
+    "content": "Your name is Alaex! How can I assist you further?"
+  }
+]
