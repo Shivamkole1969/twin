@@ -43,3 +43,5 @@ build/
 .next/
 dist/
 *.zip
+twin_project.zip
+terraform/.terraform/
